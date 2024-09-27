@@ -126,7 +126,7 @@ export default function SetimaEtapa() {
                 50% off
               </div>
               <small className="text-right text-base font-nunito text-zinc-500">de R$ 94 por:</small>
-              <h2 className="text-black text-right text-4xl mt-1 font-nunito font-extrabold">R$ 47,00</h2>
+              <h2 className="text-black text-right text-4xl mt-1 font-nunito font-extrabold">R$ 27,00</h2>
               <small className="text-right font-nunito text-base text-zinc-500">à vista</small>
             </div>
           </div>
